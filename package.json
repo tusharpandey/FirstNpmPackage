@@ -1,6 +1,6 @@
 {
   "name": "@tushargozego/usermodule",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "to implement flavors in react native",
   "main": "index.js",
   "scripts": {
